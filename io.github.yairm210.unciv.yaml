@@ -40,7 +40,7 @@ modules:
       - type: file
         path: io.github.yairm210.unciv.appdata.xml
       - type: file
-        url: https://github.com/yairm210/Unciv/releases/download/3.12.8/Unciv.jar
+        url: https://github-production-release-asset-2e65be.s3.amazonaws.com/111605778/a9fd1680-5507-11eb-8b7c-bbb0d60925a1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210114T100958Z&X-Amz-Expires=300&X-Amz-Signature=97dc4b7159c73c98a6fe401e05a0de404f6b1bc9ed2e58b0a7e1aaede258d660&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=111605778&response-content-disposition=attachment%3B+filename%3DUnciv.jar&response-content-type=application%2Foctet-stream
         sha256: 874d6d47bad6986a8d7e3729b347a85890a7bd1fa1560585168f43659456149d
         x-checker-data:
           type: rotating-url

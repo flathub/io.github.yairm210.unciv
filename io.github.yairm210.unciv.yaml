@@ -42,7 +42,3 @@ modules:
       - type: file
         url: https://github.com/yairm210/Unciv/releases/download/3.12.8/Unciv.jar
         sha256: 874d6d47bad6986a8d7e3729b347a85890a7bd1fa1560585168f43659456149d
-        x-checker-data:
-          type: rotating-url
-          url: https://github.com/yairm210/Unciv/releases/latest/download/Unciv.jar
-          version-pattern: https://github.com/yairm210/Unciv/releases/download/(.+)/Unciv.jar

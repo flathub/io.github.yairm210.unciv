@@ -5,7 +5,9 @@ A flatpak package providing [UnCiv](https://github.com/yairm210/Unciv).
 ### Game Description
 
 A reimplementation of the most famous civilization-building game ever—fast, small, no ads, free forever!
+
 Build your civilization, research technologies, expand your cities and defeat your foes!
+
 The world awaits! Will you build your civilization into an empire that will stand the test of time?
 
 ### Screenshots

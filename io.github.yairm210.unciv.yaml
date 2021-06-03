@@ -42,3 +42,8 @@ modules:
       - type: file
         url: https://github.com/yairm210/Unciv/releases/download/3.14.13/Unciv.jar
         sha256: f2efe459a920ccc3d48aa0bf86a62946d7284bd1bc831afce99b747a4cd69ea0
+        x-checker-data:
+          type: json
+          url: https://api.github.com/repos/yairm210/Unciv/releases/latest
+          version-query: .tag_name | sub("^v"; "")
+          url-query: .assets[] | select(.name=="Unciv.jar") | .browser_download_url

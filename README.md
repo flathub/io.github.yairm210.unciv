@@ -2,6 +2,10 @@
 
 A flatpak package providing [UnCiv](https://github.com/yairm210/Unciv).
 
+This repository contains the sources for building the flatpak package. The latest compiled version, as well as a more up-to-date description of the game [can be found on Flathub](https://flathub.org/apps/details/io.github.yairm210.unciv).
+
+Please report game bugs in the [upstream issue tracker](https://github.com/yairm210/Unciv/issues). Flatpak- and Flathub-related issues can be reported here.
+
 ### Game Description
 
 A reimplementation of the most famous civilization-building game ever—fast, small, no ads, free forever!

@@ -40,6 +40,7 @@
   </content_rating>
 
   <releases>
+    <release version="3.15.4" date="2021-06-23"/>
     <release version="3.15.3" date="2021-06-20"/>
     <release version="3.15.2-patch1" date="2021-06-18"/>
     <release version="3.15.2" date="2021-06-18"/>

@@ -40,6 +40,7 @@
   </content_rating>
 
   <releases>
+    <release version="t8" date="2021-08-19"/>
     <release version="3.16.5" date="2021-08-19"/>
     <release version="3.16.4-patch2" date="2021-08-17"/>
     <release version="3.16.4" date="2021-08-15"/>

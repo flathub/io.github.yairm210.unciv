@@ -40,6 +40,7 @@
   </content_rating>
 
   <releases>
+    <release version="3.16.7-uploadApk" date="2021-08-24"/>
     <release version="3.16.7" date="2021-08-23"/>
     <release version="3.16.6-macOS" date="2021-08-22"/>
     <release version="3.16.6" date="2021-08-21"/>

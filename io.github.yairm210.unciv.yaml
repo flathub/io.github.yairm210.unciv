@@ -1,8 +1,8 @@
 app-id: io.github.yairm210.unciv
 runtime: org.freedesktop.Platform
-runtime-version: '20.08'
+runtime-version: '21.08'
 sdk: org.freedesktop.Sdk
-sdk-extensions: [org.freedesktop.Sdk.Extension.openjdk11]
+sdk-extensions: [org.freedesktop.Sdk.Extension.openjdk17]
 command: unciv
 finish-args:
   - --socket=x11
@@ -14,7 +14,7 @@ finish-args:
 modules:
   - name: openjdk
     buildsystem: simple
-    build-commands: [/usr/lib/sdk/openjdk11/install.sh]
+    build-commands: [/usr/lib/sdk/openjdk17/install.sh]
 
   - name: xrandr
     sources:

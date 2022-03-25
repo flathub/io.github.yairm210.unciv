@@ -40,8 +40,8 @@ modules:
       - type: file
         path: io.github.yairm210.unciv.appdata.xml
       - type: file
-        url: https://github.com/yairm210/Unciv/releases/download/4.0.0-patch1/Unciv.jar
-        sha256: 059057e04fa31fcf93b06ef3de5a5fa4659ae6012e2d29a9b75270f231d64023
+        url: https://github.com/yairm210/Unciv/releases/download/4.0.1/Unciv.jar
+        sha256: 10ae50777483961e88d4d5a40c55853e386471c280535576bf94d3b5c234829e
         x-checker-data:
           type: json
           url: https://api.github.com/repos/yairm210/Unciv/releases/latest

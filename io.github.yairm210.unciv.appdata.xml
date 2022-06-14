@@ -40,6 +40,7 @@
   </content_rating>
 
   <releases>
+    <release version="4.1.10-experimental2" date="2022-06-14"/>
     <release version="4.1.9" date="2022-06-10"/>
     <release version="4.1.8" date="2022-06-08"/>
     <release version="4.1.7" date="2022-06-06"/>

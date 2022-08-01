@@ -40,6 +40,7 @@
   </content_rating>
 
   <releases>
+    <release version="4.2.1-itch.io" date="2022-08-01"/>
     <release version="4.2.0" date="2022-07-28"/>
     <release version="4.1.21-patch1" date="2022-07-21"/>
     <release version="4.1.21" date="2022-07-21"/>

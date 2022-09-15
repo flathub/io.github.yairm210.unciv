@@ -40,6 +40,7 @@
   </content_rating>
 
   <releases>
+    <release version="4.2.8-steamtest" date="2022-09-15"/>
     <release version="4.2.8" date="2022-09-08"/>
     <release version="4.2.7" date="2022-09-04"/>
     <release version="4.2.6" date="2022-08-28"/>

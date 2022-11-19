@@ -40,6 +40,7 @@
   </content_rating>
 
   <releases>
+    <release version="4.3.0-arbitrary-city-state-uniques" date="2022-11-19"/>
     <release version="4.3.0" date="2022-11-17"/>
     <release version="4.2.20" date="2022-11-15"/>
     <release version="4.2.19" date="2022-11-12"/>

@@ -40,8 +40,8 @@ modules:
       - type: file
         path: io.github.yairm210.unciv.appdata.xml
       - type: file
-        url: https://github.com/yairm210/Unciv/releases/download/4.3.0-arbitrary-city-state-uniques/Unciv.jar
-        sha256: 827b173527de0cbe53f9779d2a74f373bd1b934e2f41a314ce03405db19e4b63
+        url: https://github.com/yairm210/Unciv/releases/download/4.3.1/Unciv.jar
+        sha256: aa08cc412912629fd393d01caf6d4d77980babd24b98462c7d20be21adfadbe7
         x-checker-data:
           type: json
           url: https://api.github.com/repos/yairm210/Unciv/releases/latest

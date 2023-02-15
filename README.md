@@ -1,6 +1,6 @@
-# Flathub: UnCiv
+# Flathub: Unciv
 
-A flatpak package providing [UnCiv](https://github.com/yairm210/Unciv).
+A flatpak package providing [Unciv](https://github.com/yairm210/Unciv).
 
 This repository contains the sources for building the flatpak package. The latest compiled version, as well as a more up-to-date description of the game [can be found on Flathub](https://flathub.org/apps/details/io.github.yairm210.unciv).
 
@@ -18,7 +18,7 @@ The package metadata is licensed under a
 
 The packaged program is licensed under a [MPL-2.0](https://spdx.org/licenses/MPL-2.0.html) license.
 
-## About UnCiv
+## About Unciv
 
 ### Game Links
 

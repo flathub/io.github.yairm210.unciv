@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
   <id>io.github.yairm210.unciv</id>
-  <name>UnCiv</name>
+  <name>Unciv</name>
   <url type="homepage">https://github.com/yairm210/Unciv/</url>
-  <url type="bugtracker">https://github.com/yairm210/UnCiv/issues</url>
+  <url type="bugtracker">https://github.com/yairm210/Unciv/issues</url>
   <url type="translate">https://yairm210.github.io/Unciv/Other/Translating/</url>
 
   <metadata_license>CC0-1.0</metadata_license>

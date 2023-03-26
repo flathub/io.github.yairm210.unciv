@@ -39,6 +39,7 @@
   </content_rating>
 
   <releases>
+    <release version="4.5.13" date="2023-03-26"/>
     <release version="4.5.12" date="2023-03-23"/>
     <release version="4.5.11-patch1" date="2023-03-22"/>
     <release version="4.5.11" date="2023-03-21"/>

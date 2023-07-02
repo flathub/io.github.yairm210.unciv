@@ -39,6 +39,7 @@
   </content_rating>
 
   <releases>
+    <release version="4.7.6-patch1" date="2023-07-02"/>
     <release version="4.7.6" date="2023-07-02"/>
     <release version="4.7.5-patch1" date="2023-06-28"/>
     <release version="4.7.5" date="2023-06-28"/>

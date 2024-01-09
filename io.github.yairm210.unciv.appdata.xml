@@ -39,6 +39,7 @@
   </content_rating>
 
   <releases>
+    <release version="4.9.17-patch2" date="2024-01-09"/>
     <release version="4.9.17-patch1" date="2024-01-07"/>
     <release version="4.9.17" date="2024-01-07"/>
     <release version="4.9.16" date="2024-01-04"/>

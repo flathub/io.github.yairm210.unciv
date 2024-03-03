@@ -39,6 +39,7 @@
   </content_rating>
 
   <releases>
+    <release version="4.10.15" date="2024-03-03"/>
     <release version="4.10.14" date="2024-02-28"/>
     <release version="4.10.13" date="2024-02-26"/>
     <release version="4.10.12" date="2024-02-24"/>

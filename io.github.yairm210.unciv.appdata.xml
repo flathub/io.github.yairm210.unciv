@@ -39,8 +39,11 @@
   </content_rating>
 
   <releases>
-    <release version="4.11.19" date="2024-06-10">
+    <release version="4.11.19-patch1" date="2024-06-11">
       <description></description>
+    </release>
+    <release version="4.11.19" date="2024-06-10">
+      <description/>
     </release>
     <release version="4.11.18-patch1" date="2024-06-09">
       <description/>

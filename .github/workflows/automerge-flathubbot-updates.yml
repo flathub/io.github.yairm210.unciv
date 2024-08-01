@@ -3,18 +3,12 @@
 name: CI
 
 on:
-  check_suite:
-    types:
-      - completed
-  check_run:
-    types:
-      - completed
-
+  status:
   workflow_dispatch:
 
 jobs:
   automerge-flathubbot-prs:
-    if: github.event.pull_request.user.login == "flathubbot"
+    if: github.event.pull_request.user.login == 'flathubbot' && github.event.state == 'success'
     runs-on: ubuntu-latest
     steps:
       - id: automerge

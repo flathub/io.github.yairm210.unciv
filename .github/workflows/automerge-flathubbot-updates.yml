@@ -1,6 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
+name: Automerge
 
 on:
   status:
@@ -14,12 +12,7 @@ jobs:
         with:
           script: |
             commit_author = context.payload.commit.author.login
-            console.log("Context:")
-            console.log(JSON.stringify(context))
             
-            console.log("Commit author:")
-            console.log(commit_author)
-        
             if (commit_author == 'flathubbot'){
 
               // Since the status update is for a commit not a pull request, we need to find the corresponding PR.

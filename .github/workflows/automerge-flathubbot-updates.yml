@@ -19,10 +19,24 @@ jobs:
             
             console.log("Commit author:")
             console.log(commit_author)
+        
+            if (commit_author == 'flathubbot'){
 
-            if (commit_author == 'flathubbot')
-              github.rest.pulls.merge({
-                pull_number: context.issue.number,
-                owner: context.repo.owner,
-                repo: context.repo.repo
-              })
+              // Since the status update is for a commit not a pull request, we need to find the corresponding PR.
+              // We do this by iterating on all open PRs until we find one where the head ref is the same as the payload branch
+
+              const result = await github.pulls.list({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  state: "open"
+              });
+
+              for (const pr of result.data) {
+                  if (pr.head.ref == context.payload.branches[0].name)
+                      await github.pulls.merge({
+                          owner: context.repo.owner,
+                          repo: context.repo.repo
+                          pull_number: pr.number
+                      });
+              }
+            }

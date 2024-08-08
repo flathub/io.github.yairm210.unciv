@@ -9,6 +9,7 @@ finish-args:
   - --device=dri
   - --socket=pulseaudio
   - --share=network
+  - --share=ipc # Required due to x11
   - --env=PATH=/app/bin:/app/jre/bin:/usr/bin
   - --env=JAVA_HOME=/app/jre
 modules:

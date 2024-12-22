@@ -25,6 +25,10 @@
     <category>Game</category>
     <category>StrategyGame</category>
   </categories>
+  <branding>
+    <color type="primary" scheme_preference="light">#fbeb90</color>
+    <color type="primary" scheme_preference="dark">#8c60fe</color>
+  </branding>
   
   <screenshots>
     <screenshot type="default">

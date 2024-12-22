@@ -9,7 +9,9 @@
 
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>MPL-2.0</project_license>
-  <developer_name>Yair Morgenstern</developer_name>
+  <developer id="io.github.yairm210">
+	  <name>Yair Morgenstern</name>
+  </developer>
   <summary>Turn-based strategy game</summary>
   <summary xml:lang="fr">Jeu de stratégie au tour par tour</summary>
 

@@ -51,8 +51,11 @@
   </content_rating>
 
   <releases>
-    <release version="4.14.18-apk-regular" date="2024-12-31">
+    <release version="4.14.19" date="2025-01-01">
       <description></description>
+    </release>
+    <release version="4.14.18-apk-regular" date="2024-12-31">
+      <description/>
     </release>
     <release version="4.14.18-apk-minify" date="2024-12-30">
       <description/>

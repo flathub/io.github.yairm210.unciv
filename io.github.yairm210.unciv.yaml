@@ -35,8 +35,8 @@ modules:
       - type: file
         path: io.github.yairm210.unciv.appdata.xml
       - type: file
-        url: https://github.com/yairm210/Unciv/releases/download/4.15.1-libgdx-1.13.1/Unciv.jar
-        sha256: 17190a82d2da05ed69eb6f979ee4dc32f8fd11ca3883071866d9d667bb1b88a1
+        url: https://github.com/yairm210/Unciv/releases/download/4.15.2/Unciv.jar
+        sha256: f284b4a0cda8599f42382e13380dcab24dcb654eaf7870a0e82b7a5d08eb6213
         x-checker-data:
           type: json
           url: https://api.github.com/repos/yairm210/Unciv/releases/latest

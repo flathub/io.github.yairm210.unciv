@@ -51,8 +51,11 @@
   </content_rating>
 
   <releases>
-    <release version="4.15.2" date="2025-01-11">
+    <release version="4.15.2-patch1" date="2025-01-13">
       <description></description>
+    </release>
+    <release version="4.15.2" date="2025-01-11">
+      <description/>
     </release>
     <release version="4.15.1-libgdx-1.13.1" date="2025-01-08">
       <description/>

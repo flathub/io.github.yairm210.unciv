@@ -1,0 +1,21 @@
+name: 'Close stale issues and PRs'
+on:
+  workflow_dispatch: 
+  schedule:
+    - cron: '0 1 * * *'
+ 
+    
+permissions:
+  pull-requests: write
+  
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v9
+        with:
+          stale-pr-message: 'This PR is stale.'
+          close-pr-message: 'This PR was closed because (presumably) another update has been merged instead.'
+          days-before-pr-stale: 1
+          days-before-pr-close: 1
+          operations-per-run: 2

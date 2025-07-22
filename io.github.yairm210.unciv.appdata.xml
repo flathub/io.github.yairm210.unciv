@@ -51,8 +51,11 @@
   </content_rating>
 
   <releases>
-    <release version="4.17.6" date="2025-07-18">
+    <release version="4.17.7" date="2025-07-21">
       <description></description>
+    </release>
+    <release version="4.17.6" date="2025-07-18">
+      <description/>
     </release>
     <release version="4.17.5" date="2025-07-15">
       <description/>

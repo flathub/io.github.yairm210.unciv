@@ -14,11 +14,15 @@
   </developer>
   <summary>Turn-based strategy game</summary>
   <summary xml:lang="fr">Jeu de stratégie au tour par tour</summary>
+  <summary xml:lang="ca">Joc d'estratègia per torns</summary>
 
   <description>
     <p>A reimplementation of the most famous civilization-building game ever—fast, small, no ads, free forever!</p>
+    <p xml:lang="ca">Una reimplementació del joc més conegut de construcció de civilitzacions, de poc pes, molt ràpid, sense anuncis i gratuït!</p>
     <p>Build your civilization, research technologies, expand your cities and defeat your foes!</p>
+    <p xml:lang="ca">Construïu una civilització, recerqueu tecnologies, expandiu les ciutats i derroteu als oponents!</p>
     <p>The world awaits! Will you build your civilization into an empire that will stand the test of time?</p>
+    <p xml:lang="ca">El món us espera! Podreu convertir la vostra civilització en un imperi que aguanti el pas del temps?</p>
   </description>
 
   <launchable type="desktop-id">io.github.yairm210.unciv.desktop</launchable>
@@ -51,8 +55,11 @@
   </content_rating>
 
   <releases>
-    <release version="4.18.1" date="2025-09-13">
+    <release version="4.18.2" date="2025-09-25">
       <description></description>
+    </release>
+    <release version="4.18.1" date="2025-09-13">
+      <description/>
     </release>
     <release version="4.18.0" date="2025-09-10">
       <description/>

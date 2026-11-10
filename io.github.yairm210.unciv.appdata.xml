@@ -55,9 +55,13 @@
   </content_rating>
 
   <releases>
+    <release version="4.22.19" date="2026-11-10">
+      <url type="details">https://github.com/yairm210/Unciv/releases/tag/4.22.19</url>
+      <description></description>
+    </release>
     <release version="4.22.18-patch1" date="2026-11-09">
       <url type="details">https://github.com/yairm210/Unciv/releases/tag/4.22.18-patch1</url>
-      <description></description>
+      <description/>
     </release>
     <release version="4.22.18" date="2026-11-08">
       <url type="details">https://github.com/yairm210/Unciv/releases/tag/4.22.18</url>

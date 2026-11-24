@@ -55,9 +55,13 @@
   </content_rating>
 
   <releases>
+    <release version="5.0.3" date="2026-11-24">
+      <url type="details">https://github.com/yairm210/Unciv/releases/tag/5.0.3</url>
+      <description></description>
+    </release>
     <release version="5.0.2" date="2026-11-22">
       <url type="details">https://github.com/yairm210/Unciv/releases/tag/5.0.2</url>
-      <description></description>
+      <description/>
     </release>
     <release version="5.0.1" date="2026-11-17">
       <url type="details">https://github.com/yairm210/Unciv/releases/tag/5.0.1</url>
